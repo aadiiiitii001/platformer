@@ -1,4 +1,3 @@
-
 import pygame
 from pygame.locals import *
 from pygame import mixer
@@ -506,3 +505,4 @@ while run:
 	pygame.display.update()
 
 pygame.quit()
+
