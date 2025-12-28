@@ -39,6 +39,7 @@ A fast-paced 2D platformer focused on tight controls, precision movement, and le
 
 - **Language:** `<e.g., Python / JavaScript / C#>`
 - **Framework / Engine:** `<e.g., Pygame / Unity / Phaser>`
+
 - **Platform:** `<Windows / Web / Cross-platform>`
 
 > Replace placeholders. Don’t skip this — recruiters hate vague stacks.
@@ -57,3 +58,9 @@ A fast-paced 2D platformer focused on tight controls, precision movement, and le
 │   └── main.*
 ├── README.md
 └── requirements.txt / package.json>
+```
+## OUTPUT
+ BEFORE 
+ ![WhatsApp Image 2025-12-28 at 10 10 51 PM](https://github.com/user-attachments/assets/8203add2-9984-46b0-a732-aa760f09f1a8)
+ AFTER
+![WhatsApp Image 2025-12-28 at 10 10 13 PM](https://github.com/user-attachments/assets/daaf531b-9618-4c70-8e03-255a47cc1ec3)
